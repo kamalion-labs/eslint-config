@@ -1,6 +1,7 @@
 {
   "name": "@kamalion/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "private": false,
   "description": "ESLint configuration used by Kamalion's devs.",
   "main": "index.js",
   "license": "MIT",
